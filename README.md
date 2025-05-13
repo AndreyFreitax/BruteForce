@@ -20,7 +20,7 @@
 ### 📥 Clonar o repositório:
 
 ```bash
-git clone https://github.com/AndreyFreitaz/BruteForce.git
+git clone https://github.com/AndreyFreitax/BruteForce.git
 cd BruteForce
 python3 ftp_brute.py <host> <wordlist.txt>
 ```
